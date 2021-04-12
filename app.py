@@ -4,8 +4,8 @@ import streamlit.components.v1 as components
 import requests
 import json
 
-st.title("Backend Python Developer Task")
-st.subheader("Named Entity Recognition on Wikipedia")
+st.title("Named Entity Recognition on Wikipedia")
+st.subheader("Input appropriate words like for Google : search 'Google Inc' to avoid error")
 raw_text = st.text_area("Your Text","Enter Text Here")
 raw_text = raw_text.replace(" ", "_")
 ## Using the Flask api for performing NER
