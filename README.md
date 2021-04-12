@@ -9,8 +9,6 @@
 - User can give their input in Text Field provided.
 - It's a simple but easy to understand Streamlit app.
 
-![alt text](https://res.cloudinary.com/trinitytuts/image/upload/v1585627329/REST_API_jqcrkq.png)
-
 ### How to RUN
 
 **This procedure is useful for MAC/LINUX. I'm not sure about Windows.**
