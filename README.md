@@ -25,7 +25,7 @@ Install Virtial Environment "virtualenv" so that your local Python Dependencies 
 $ pip install virtualenv
 ```
 
-**Step 4:**
+**Step 3:**
 
 Clone this GITHUB REPO using this Link : https://github.com/Swapnil4Github/Display_NER_Streamlit.git in your desired Directory.
 
@@ -33,21 +33,21 @@ Clone this GITHUB REPO using this Link : https://github.com/Swapnil4Github/Displ
 $ git clone https://github.com/Swapnil4Github/Display_NER_Streamlit.git
 ```
 
-**Step 5:**
+**Step 4:**
 Now you'll be having Project Folder "Display_NER_Streamlit". Navigate to that folder.
 
 ```bash
 $ cd Display_NER_Streamlit
 ```
 
-**Step 6:**
+**Step 5:**
 Create a Virtual Environment here. You can name anything, but in my case I'm using '_venv_'
 
 ```bash
 $ virtualenv venv
 ```
 
-**Step 7:**
+**Step 6:**
 Activate the Virtual Environment
 
 ```bash
@@ -56,21 +56,21 @@ $ source venv/bin/activate
 
 Replace the name 'venv' with the name of your virtual environment name, if it's different.
 
-**Step 8:**
+**Step 7:**
 Install Dependencies
 
 ```bash
 $ pip install -r requirements.txt
 ```
 
-**Step 9:**
+**Step 8:**
 Everything's Done!
 Now just run the server
 
 ```bash
 $ streamlit run app.py
 ```
-**Step 7:**
+**Step 9:**
 Give Input through text field to perform NER on it with help of Flask API
 
 Now go to you browser's search box and paste the server IP **127.0.0.1:8000/
