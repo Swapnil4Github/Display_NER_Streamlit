@@ -2,6 +2,7 @@
 
 > It's a Streamlit App which uses Flask API created by me which in return give JSON file with Named Entity Recognition on scrapped data of Wikipedia and extracted entities like city, person, organisation, Date, Geographical Entity, Product etc.
 
+## Python Flask API built by me for this project(Github link) : https://github.com/Swapnil4Github/project-Flask_ENR_api
 
 ### Feature
 - It displays annotated text in Streamlit App for each Named Entity.
