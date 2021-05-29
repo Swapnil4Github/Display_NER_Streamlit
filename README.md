@@ -11,8 +11,6 @@
 - User can give their input in Text Field provided.
 - It's a simple but easy to understand Streamlit app.
 
-![alt text](https://cdn.pixabay.com/photo/2021/04/12/21/08/21-08-33-456_1280.jpg)
-
 
 ### How to RUN
 
